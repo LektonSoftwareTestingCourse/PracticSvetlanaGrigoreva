@@ -140,4 +140,4 @@ Practic/
 ## Контакты
 
 **Куратор практики:** Андрей Попов (Lekton)
-**Репозиторий:** https://github.com/LektonSoftwareTestingCourse/Practic
+**Репозиторий:** https://github.com/LektonSoftwareTestingCourse/Practic 
